@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SRK-RAJU
 - 👀 I’m interested in cloud computing
-- 🌱 I’m currently learning Devops-AWS 
-- 💞️ I’m looking to collaborate on Ansible, Jenkins, Cubernets, AWS ,INtelliJ Idea.
+- 🌱 I’m currently Associate-DEVOPS_AWS
+- 💞️ I’m looking to collaborate on AWS, Docker,Terraform,Helm, Ansible, Jenkins, Kubernets,INtelliJ Idea, Git.
 - 📫 How to reach me comment on git.
 - 
 

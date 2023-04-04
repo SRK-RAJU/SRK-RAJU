@@ -55,6 +55,8 @@ aws bash docker gcp jenkins kubernetes
 </div>
 
 
-[website]: https://SRK-RAJU.tech
-[linkedin]: https://linkedin.com/in/SRK-RAJU
-[mail]: mailto:srajukumargoud@gmail.com
+[website]:  https://SRK-RAJU.tech
+
+[linkedin]:  https://linkedin.com/in/SRK-RAJU
+
+[mail]:  mailto: srajukumargoud@gmail.com

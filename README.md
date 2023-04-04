@@ -23,18 +23,18 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-Languages and Tools:
+🧰 Languages and Tools:
 aws bash docker gcp jenkins kubernetes
 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=SRK-RAJU.SRK-RAJU)
 [![Github](https://img.shields.io/github/followers/SRK-RAJU?label=Follow&style=social)](https://github.com/SRK-RAJU)
 
-# Blog posts
+#📘 Blog posts:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-
+# 🏆 My Github Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SRK-RAJU&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SRK-RAJU&theme=tokyonight)

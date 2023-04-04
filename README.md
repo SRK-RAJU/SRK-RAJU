@@ -51,10 +51,6 @@ You can click the Preview link to take a look at your changes.
 
 <br />
 
-
-![](https://visitor-badge.laobi.icu/badge?page_id=SRK-RAJU.SRK-RAJU)
-[![Github](https://img.shields.io/github/followers/SRK-RAJU?label=Follow&style=social)](https://github.com/SRK-RAJU)
-
 ## :blue_book: Blog posts:
 <!-- BLOG-POST-LIST:START -->
 - [Dream Job vs. Tech Job?](https://dev.to/SRK-RAJU/dream-job-vs-tech-job-5fdj)
@@ -79,6 +75,7 @@ You can click the Preview link to take a look at your changes.
 </a>
 </div>
 
+<br />
 
 [website]:  https://SRK-RAJU.tech
 [linkedin]:  https://linkedin.com/in/SRK-RAJU

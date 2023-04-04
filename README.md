@@ -1,4 +1,4 @@
--  <img src="https://images.unsplash.com/photo-1502945015378-0e284ca1a5be?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" width="200" height="100">
+-  <img src="https://images.unsplash.com/photo-1502945015378-0e284ca1a5be?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" width="500" height="100">
 - 👋 Hi, I’m @SRK-RAJU 
 - 👀 I’m interested in cloud computing
 - 🌱 I’m currently Associate-DEVOPS_AWS

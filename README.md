@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @SRK-RAJU
-- <img src="https://images.unsplash.com/photo-1502945015378-0e284ca1a5be?ixlib=rb4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" width="250" height="150">
--  ![image](https://images.unsplash.com/photo-1502945015378-0e284ca1a5be?ixlib=rb4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80)
 - 👀 I’m interested in cloud computing
 - 🌱 I’m currently Associate-DEVOPS_AWS
 - 💞️ I’m looking to collaborate on AWS, Docker,  
-- Terraform,Helm, Ansible, Jenkins, Kubernets,
+- Terraform,Helm, Ansible, Jenkins, Kubernets,  <img src="https://images.unsplash.com/photo-1502945015378-0e284ca1a5be?ixlib=rb4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" width="250" height="150">
 - INtelliJ Idea, Git,Sonar,Visual Studio,
 -  Monitoring,Email-Notification
 - 📫 How to reach me comment on git.

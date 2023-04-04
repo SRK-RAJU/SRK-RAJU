@@ -18,8 +18,8 @@
 
 ![image](https://user-images.githubusercontent.com/97968060/229706856-88700f81-0567-4bb5-8cd0-5cc56a62dce6.png)
 
-                                               Sonar - CodeQuality |
-Monitoring- Prometheus, Grafana | Maven- Build | Logs- Splunk | 
+                                              
+  Splunk | 
 Passionate about to learn various DevOps concepts.
 
 <!---
@@ -48,6 +48,8 @@ You can click the Preview link to take a look at your changes.
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJuiC6yfWkUwBaJsrKrxC1kOZkPRrfboiYRX6lOmk&s" alt="Nexus" height="40" style="vertical-align:top; margin:4px">
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWFYM5KLcL5O1rxB-SpPLbcSJFJaGA6ybtQkD1VaeR4g&s" alt="Prometheus" height="40" style="vertical-align:top; margin:4px">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Grafana_logo.svg/800px-Grafana_logo.svg.png" alt="Grafana" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://fossa.com/blog/content/images/2022/02/maven.png" alt="Maven" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://www.splunk.com/content/dam/splunk2/images/logos/splunk/splunk-black-white-bg.png" alt="Splunk" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 <br />

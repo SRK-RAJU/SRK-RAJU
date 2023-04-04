@@ -1,4 +1,4 @@
--  <img src="https://images.unsplash.com/photo-1502945015378-0e284ca1a5be?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" width="1250" height="250">
+ <img src="https://images.unsplash.com/photo-1502945015378-0e284ca1a5be?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" width="1250" height="250">
 -  ## Hi  👋 I'm ["RAJUKUMAR"] S.R.K 😀
  ![](https://visitor-badge.laobi.icu/badge?page_id=SRK-RAJU.SRK-RAJU) [![Github](https://img.shields.io/github/followers/SRK-RAJU?label=Followers&logo=Github)](https://github.com/SRK-RAJU)
  
@@ -57,8 +57,9 @@
 -->
 <p>
 <a href="mailto:srajukumargoud@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/726/726623.png" alt="Email" height="40" style="vertical-align:top; margin:4px"></a> 
-</p>
 [mail]:mailto: srajukumargoud@gmail.com
+</p>
+
 
 ## :trophy: My Github Stats:
 

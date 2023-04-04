@@ -30,11 +30,30 @@ aws bash docker gcp jenkins kubernetes
 ![](https://visitor-badge.laobi.icu/badge?page_id=SRK-RAJU.SRK-RAJU)
 [![Github](https://img.shields.io/github/followers/SRK-RAJU?label=Follow&style=social)](https://github.com/SRK-RAJU)
 
-# 📘 Blog posts:
+## :blue_book: Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Dream Job vs. Tech Job?](https://dev.to/SRK-RAJU/dream-job-vs-tech-job-5fdj)
+- [Create an Awesome Cover Letter with GPT-3](https://dev.to/SRK-RAJU/create-an-awesome-cover-letter-with-gpt-3-4f65)
+- [10+1 Useful Python Code Snippets for Everyday Problems](https://dev.to/SRK-RAJU/10-useful-one-liner-python-code-snippets-to-make-your-everyday-coding-useful-javascript-code-snippets-for-common-problems-351)
+- [Develop a mobile app with NO coding!!](https://dev.to/SRK-RAJU/develop-a-mobile-app-without-one-line-of-code-oeh)
+- [Awesome typing effect overlay on images &lpar;CSS+JS&rpar;](https://dev.to/SRK-RAJU/awesome-typing-effect-overlay-on-images-css-js-2nof)
 <!-- BLOG-POST-LIST:END -->
 
-# 🏆 My Github Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SRK-RAJU&show_icons=true&theme=tokyonight)
+## :trophy: My Github Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SRK-RAJU&theme=tokyonight)
+<!--
+![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=SRK-RAJU&count_private=true&show_icons=true&theme=tokyonight)
+![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=SRK-RAJU&hide=php&theme=tokyonight)
+-->
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=SRK-RAJU&theme=tokyonight">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=SRK-RAJU&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=SRK-RAJU&hide=php&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRK-RAJU&hide=php&theme=tokyonight" />
+</a>
+</div>
+
+[website]: https://SRK-RAJU.tech
+[linkedin]: https://linkedin.com/in/SRK-RAJU
+[mail]: mailto:srajukumargoud@gmail.com

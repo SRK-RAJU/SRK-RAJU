@@ -57,6 +57,12 @@ You can click the Preview link to take a look at your changes.
 - [Develop a mobile app with NO coding!!](https://dev.to/SRK-RAJU/develop-a-mobile-app-without-one-line-of-code-oeh)
 - [Awesome typing effect overlay on images &lpar;CSS+JS&rpar;](https://dev.to/SRK-RAJU/awesome-typing-effect-overlay-on-images-css-js-2nof)
 <!-- BLOG-POST-LIST:END -->
+## :email: Find me on:
+
+[website]:  https://SRK-RAJU.tech
+[linkedin]:  https://linkedin.com/in/SRK-RAJU
+[mail]:  mailto: srajukumargoud@gmail.com
+
 
 ## :trophy: My Github Stats:
 
@@ -73,8 +79,3 @@ You can click the Preview link to take a look at your changes.
 </a>
 </div>
 
-## :email: Find me on:
-
-[website]:  https://SRK-RAJU.tech
-[linkedin]:  https://linkedin.com/in/SRK-RAJU
-[mail]:  mailto: srajukumargoud@gmail.com

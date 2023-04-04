@@ -1,6 +1,6 @@
  <img src="https://images.unsplash.com/photo-1502945015378-0e284ca1a5be?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" width="1250" height="250">
 -  ## Hi  👋 I'm ["RAJUKUMAR"] S.R.K 😀
- ![](https://visitor-badge.laobi.icu/badge?page_id=SRK-RAJU.SRK-RAJU) [![Github](https://img.shields.io/github/followers/SRK-RAJU?label=Followers&logo=Github)](https://github.com/SRK-RAJU)
+- ![](https://visitor-badge.laobi.icu/badge?page_id=SRK-RAJU.SRK-RAJU) [![Github](https://img.shields.io/github/followers/SRK-RAJU?label=Followers&logo=Github)](https://github.com/SRK-RAJU)
  
  
  

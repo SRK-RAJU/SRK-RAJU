@@ -18,9 +18,8 @@
 
 ![image](https://user-images.githubusercontent.com/97968060/229706856-88700f81-0567-4bb5-8cd0-5cc56a62dce6.png)
 
-                                                         
-| Jenkins | AWS | Git | Terraform | Ansible | Kubernetes - EKS | Sonar - CodeQuality |
-Nexus - Artifacts | Monitoring- Prometheus, Grafana | Maven- Build | Logs- Splunk | 
+                                               Sonar - CodeQuality |
+Monitoring- Prometheus, Grafana | Maven- Build | Logs- Splunk | 
 Passionate about to learn various DevOps concepts.
 
 <!---
@@ -33,6 +32,7 @@ You can click the Preview link to take a look at your changes.
 ## 🧰 Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://europe1.discourse-cdn.com/sonarsource/uploads/sonarcommunity/original/3X/e/1/e1367a12d682c75b4eb1c7e83bc0765043ba79c3.png" alt="Sonar" height="40" style="vertical-align:top; margin:4px">
  <img src="https://www.jenkins.io/images/logo-title-opengraph.png" alt="Jenkins" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="AWS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" alt="Terraform" height="40" style="vertical-align:top; margin:4px">
@@ -45,7 +45,9 @@ You can click the Preview link to take a look at your changes.
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px" alt="Windows" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
-
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJuiC6yfWkUwBaJsrKrxC1kOZkPRrfboiYRX6lOmk&s" alt="Nexus" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWFYM5KLcL5O1rxB-SpPLbcSJFJaGA6ybtQkD1VaeR4g&s" alt="Prometheus" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Grafana_logo.svg/800px-Grafana_logo.svg.png" alt="Grafana" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 <br />

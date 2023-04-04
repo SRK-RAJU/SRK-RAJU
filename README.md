@@ -56,8 +56,8 @@
 [<img align="left" alt="SRK-RAJU | Mail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
 -->
 <p>
-<a href="mailto:srajukumargoud@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/726/726623.png" alt="Email" height="40" style="vertical-align:top; margin:4px"></a> 
-[mail]:mailto: srajukumargoud@gmail.com
+<a href="mailto:srajukumargoud@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/726/726623.png" alt="Email" height="40" style="vertical-align:top; margin:4px"></a>
+[mail]:mailto:srajukumargoud@gmail.com
 </p>
 
 

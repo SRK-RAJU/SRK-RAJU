@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SRK-RAJU
 - 👀 I’m interested in cloud computing
 - 🌱 I’m currently Associate-DEVOPS_AWS
-- 💞️ I’m looking to collaborate on AWS, Docker,           ![image]("C:\Users\Raju\Downloads\raju-github.jpg")
+- 💞️ I’m looking to collaborate on AWS, Docker,           ![image](https://images.unsplash.com/photo-1502945015378-0e284ca1a5be?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80)
 - Terraform,Helm, Ansible, Jenkins, Kubernets,
 - INtelliJ Idea, Git,Sonar,Visual Studio,
 -  Monitoring,Email-Notification

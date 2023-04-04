@@ -14,21 +14,7 @@
 - 💞️ I’m looking to collaborate on Cloud Platforms.
 - 📫 How to reach me comment on git.
 - 🔭 I’m currently learning GCP,GKE,Logs, Kubernetes,Ansible.
-- ⚡
-
 ![image](https://user-images.githubusercontent.com/97968060/229706856-88700f81-0567-4bb5-8cd0-5cc56a62dce6.png)
-
-                                              
-  Splunk | 
-Passionate about to learn various DevOps concepts.
-
-<!---
-SRK-RAJU/SRK-RAJU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-
 ## 🧰 Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" height="40" style="vertical-align:top; margin:4px">

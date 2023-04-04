@@ -61,7 +61,7 @@ You can click the Preview link to take a look at your changes.
 
 [website]:  https://SRK-RAJU.tech
 [linkedin]:  https://linkedin.com/in/SRK-RAJU
-[mail]:  mailto: srajukumargoud@gmail.com
+[mail]: srajukumargoud@gmail.com
 
 
 ## :trophy: My Github Stats:

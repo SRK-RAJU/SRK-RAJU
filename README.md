@@ -8,12 +8,9 @@
  
  
  
-- 👀 I’m interested in cloud computing
-- 🌱 I’m currently Consultant-AWS_DEVOPS
-- 💞️ I’m looking to collaborate on AWS, Docker,  
-- Terraform,Helm, Ansible, Jenkins, Kubernets,            
-- INtelliJ Idea, Git,Sonar,Visual Studio,
--  Monitoring,Email-Notification
+- 👀 I’m interested in Cloud Computing.
+- 🌱 I’m currently Consultant-AWS_DEVOPS.
+- 💞️ I’m looking to collaborate on Cloud Platforms.
 - 📫 How to reach me comment on git.
 - 🔭 I’m currently learning GCP,GKE,Logs, Kubernetes,Ansible.
 - ⚡

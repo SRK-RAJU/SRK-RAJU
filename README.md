@@ -67,7 +67,7 @@ You can click the Preview link to take a look at your changes.
 <p>
 <a href="mailto:srajukumargoud@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/726/726623.png" alt="Email" height="40" style="vertical-align:top; margin:4px"></a> 
 </p>
-[mail]: mailto:srajukumargoud@gmail.com
+[mail]:mailto: srajukumargoud@gmail.com
 
 ## :trophy: My Github Stats:
 

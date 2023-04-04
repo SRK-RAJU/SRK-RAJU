@@ -1,7 +1,7 @@
 -  <img src="https://images.unsplash.com/photo-1502945015378-0e284ca1a5be?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" width="1250" height="250">
 - 👋 Hi, I’m @SRK-RAJU 
 - 👀 I’m interested in cloud computing
-- 🌱 I’m currently Associate-DEVOPS_AWS
+- 🌱 I’m currently Consultant-AWS_DEVOPS
 - 💞️ I’m looking to collaborate on AWS, Docker,  
 - Terraform,Helm, Ansible, Jenkins, Kubernets,            
 - INtelliJ Idea, Git,Sonar,Visual Studio,
@@ -21,3 +21,7 @@ Passionate about to learn various DevOps concepts.
 SRK-RAJU/SRK-RAJU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+Languages and Tools:
+aws bash docker gcp jenkins kubernetes

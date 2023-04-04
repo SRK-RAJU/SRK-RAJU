@@ -59,10 +59,14 @@ You can click the Preview link to take a look at your changes.
 <!-- BLOG-POST-LIST:END -->
 ## :email: Find me on:
 
-[website]:  https://SRK-RAJU.tech
-[linkedin]:  https://linkedin.com/in/SRK-RAJU
-[mail]: srajukumargoud@gmail.com
-
+<!--
+[<img align="left" alt="SRK-RAJU" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="SRK-RAJU | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="SRK-RAJU | Mail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
+-->
+<p>
+<a href="mailto:srajukumargoud@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/726/726623.png" alt="Email" height="40" style="vertical-align:top; margin:4px"></a> 
+</p>
 
 ## :trophy: My Github Stats:
 

@@ -5,6 +5,13 @@
 <h1 align="center">Hi 👋, I'm ["RAJUKUMAR"] S.R.K 😀</h1>
 <h3 align="center">A passionate DevOps Engineer, Who is eagerly searching for new things to learn.</h3>
 
+
+<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=SRK-RAJU&column=9&theme=gruvbox&no-frame=true"/>
+</a>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SRK-RAJU&label=Profile%20views&color=0e75b6&style=flat" alt="SRK-RAJU" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SRK-RAJU" alt="SRK-RAJU" /></a> </p>

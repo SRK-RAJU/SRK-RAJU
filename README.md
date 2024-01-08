@@ -36,6 +36,8 @@
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
 </p>
+
+
 ![image](https://user-images.githubusercontent.com/97968060/229706856-88700f81-0567-4bb5-8cd0-5cc56a62dce6.png)
 
 
@@ -101,5 +103,12 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=SRK-RAJU&hide=php&theme=tokyonight">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRK-RAJU&hide=php&theme=tokyonight" />
 </a>
+
+
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SRK-RAJU&show_icons=true&locale=en&layout=compact" alt="SRK-RAJU" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SRK-RAJU&show_icons=true&locale=en" alt="SRK-RAJU" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SRK-RAJU&" alt="SRK-RAJU" /></p>
 </div>
 

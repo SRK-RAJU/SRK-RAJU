@@ -77,7 +77,7 @@
 -->
 <p>
 <a href="mailto:suddala.rajukumar123@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/726/726623.png" alt="Email" height="40" style="vertical-align:top; margin:4px"></a>
-[mail]:mailto:srajukumargoud@gmail.com
+[mail]:mailto:suddala.rajukumar123@gmail.com
 </p>
 
 

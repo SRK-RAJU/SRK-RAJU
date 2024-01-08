@@ -30,6 +30,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/suddala-rajukumar-goud-266484273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suddala-rajukumar-goud-266484273" height="30" width="40" /></a>
@@ -67,16 +68,6 @@
 
 <br />
 
-## :blue_book: Blog posts:
-
-<!-- BLOG-POST-LIST:START -->
-- [Dream Job vs. Tech Job?](https://dev.to/SRK-RAJU/dream-job-vs-tech-job-5fdj)
-- [Create an Awesome Cover Letter with GPT-3](https://dev.to/SRK-RAJU/create-an-awesome-cover-letter-with-gpt-3-4f65)
-- [10+1 Useful Python Code Snippets for Everyday Problems](https://dev.to/SRK-RAJU/10-useful-one-liner-python-code-snippets-to-make-your-everyday-coding-useful-javascript-code-snippets-for-common-problems-351)
-- [Develop a mobile app with NO coding!!](https://dev.to/SRK-RAJU/develop-a-mobile-app-without-one-line-of-code-oeh)
-- [Awesome typing effect overlay on images &lpar;CSS+JS&rpar;](https://dev.to/SRK-RAJU/awesome-typing-effect-overlay-on-images-css-js-2nof)
-<!-- BLOG-POST-LIST:END -->
-
 ## :email: Find me on:
 
 <!--
@@ -85,7 +76,7 @@
 [<img align="left" alt="SRK-RAJU | Mail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
 -->
 <p>
-<a href="mailto:srajukumargoud@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/726/726623.png" alt="Email" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="mailto:suddala.rajukumar123@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/726/726623.png" alt="Email" height="40" style="vertical-align:top; margin:4px"></a>
 [mail]:mailto:srajukumargoud@gmail.com
 </p>
 
@@ -96,10 +87,11 @@
 ![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=SRK-RAJU&count_private=true&show_icons=true&theme=tokyonight)
 ![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=SRK-RAJU&hide=php&theme=tokyonight)
 -->
-<div>
+
 <a href="https://github-readme-stats.vercel.app/api?username=SRK-RAJU&theme=tokyonight">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=SRK-RAJU&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
+
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=SRK-RAJU&hide=php&theme=tokyonight">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRK-RAJU&hide=php&theme=tokyonight" />
 </a>
@@ -110,5 +102,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SRK-RAJU&show_icons=true&locale=en" alt="SRK-RAJU" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SRK-RAJU&" alt="SRK-RAJU" /></p>
-</div>
+
 

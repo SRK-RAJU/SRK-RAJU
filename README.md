@@ -1,6 +1,7 @@
- <img src="https://images.unsplash.com/photo-1502945015378-0e284ca1a5be?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" width="1250" height="250">
- 
-## Hi  👋 I'm ["RAJUKUMAR"] S.R.K 😀
+![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--X8Q59V5M--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/zu5cr0j2qczswka4wh39.gif)
+<img src="https://images.unsplash.com/photo-1502945015378-0e284ca1a5be?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" width="1250" height="250">
+<h1 align="center">Hi 👋, I'm ["RAJUKUMAR"] S.R.K 😀</h1>
+
 
 ## Visitors and Followers
 

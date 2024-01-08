@@ -1,14 +1,10 @@
 <img src="https://images.unsplash.com/photo-1502945015378-0e284ca1a5be?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" width="1250" height="250">
+
 ![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--X8Q59V5M--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/zu5cr0j2qczswka4wh39.gif)
+
 <h1 align="center">Hi 👋, I'm ["RAJUKUMAR"] S.R.K 😀</h1>
 <h3 align="center">A passionate DevOps Engineer, Who is eagerly searching for new things to learn.</h3>
 
-<img align="right" alt="Coding" width="1000" src="https://wallpaperaccess.com/full/5927911.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mudit097&label=Profile%20views&color=0e75b6&style=flat" alt="mudit097" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mudit097" alt="mudit097" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 ## Visitors and Followers
 

@@ -21,13 +21,21 @@
 
 - 💬 Ask me about **Cloud and DevOps Services.**
 
-- 👀 I’m interested in Cloud Native Cloud Foundation(CNCF).
+- 👀 I’m interested in **Cloud Native Cloud Foundation(CNCF)**.
   
-- 💞️ I’m looking to collaborate on Cloud Platforms.
+- 💞️ I’m looking to collaborate on **Cloud Platforms**.
   
 - 📫 How to reach me comment on git or **suddala.rajukumar123@gmail.com**
 
-
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/suddala-rajukumar-goud-266484273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suddala-rajukumar-goud-266484273" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
+</p>
 ![image](https://user-images.githubusercontent.com/97968060/229706856-88700f81-0567-4bb5-8cd0-5cc56a62dce6.png)
 
 

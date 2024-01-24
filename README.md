@@ -28,7 +28,7 @@
 
 - 🤝 I’m looking for help with **new tools to learn.**
 
-- 💬 Ask me about **Cloud and DevOps Services.**
+- 💬 Ask me about **Cloud and DevOps .**
 
 - 👀 I’m interested in **Cloud Native Cloud Foundation(CNCF)**.
   
